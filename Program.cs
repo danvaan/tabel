@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             //int arv = 0;
 
-            /* for (int i = 0; i < 7; i++)
+            for (int i = 0; i < 7; i++)
               {
                  for (int j = 0; j < 7; j++)
                      if (i == 0)
@@ -24,7 +24,7 @@ namespace ConsoleApp1
 
 
               }
-              */
+              
             for (int i = 0; i <= 3; i++)
             {
                 Console.Write("{0}\t", i);
